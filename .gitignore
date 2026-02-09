@@ -1,0 +1,21 @@
+# Maven
+target/
+*.jar
+*.war
+*.zip
+*.tar.gz
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Build
+*.class
+*.log
+
+# Spring Boot
+*.pid
